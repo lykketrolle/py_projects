@@ -30,3 +30,5 @@ try:
         print("Unknown operand")
 finally:
     print("\nPlease try again")
+    
+input("Press enter to exit.")
